@@ -1,0 +1,18 @@
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\bin\Debug\Expresion Binaria.exe.config
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\bin\Debug\Expresion Binaria.exe
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\bin\Debug\Expresion Binaria.pdb
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\obj\Debug\Expresion Binaria.csprojResolveAssemblyReference.cache
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\obj\Debug\Expresion_Binaria.Properties.Resources.resources
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\obj\Debug\Expresion Binaria.csproj.GenerateResource.Cache
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\obj\Debug\Expresion Binaria.exe
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\obj\Debug\Expresion Binaria.pdb
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\obj\Debug\Expresion_Binaria.frmPrincipal.resources
+\\Mac\Google Drive\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\bin\Debug\Expresion Binaria.exe.config
+\\Mac\Google Drive\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\obj\Debug\Expresion Binaria.exe
+\\Mac\Google Drive\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\obj\Debug\Expresion Binaria.pdb
+\\Mac\Google Drive\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\bin\Debug\Expresion Binaria.exe
+\\Mac\Google Drive\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\bin\Debug\Expresion Binaria.pdb
+\\Mac\Google Drive\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\obj\Debug\Expresion Binaria.csprojResolveAssemblyReference.cache
+\\Mac\Google Drive\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\obj\Debug\Expresion_Binaria.frmPrincipal.resources
+\\Mac\Google Drive\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\obj\Debug\Expresion_Binaria.Properties.Resources.resources
+\\Mac\Google Drive\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Expresion Binaria\Expresion Binaria\obj\Debug\Expresion Binaria.csproj.GenerateResource.Cache
